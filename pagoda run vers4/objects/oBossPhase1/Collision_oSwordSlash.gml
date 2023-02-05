@@ -1,0 +1,1 @@
+BossHP= BossHP-3;

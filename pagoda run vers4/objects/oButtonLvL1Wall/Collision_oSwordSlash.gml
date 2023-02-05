@@ -1,0 +1,1 @@
+instance_destroy(inst_FW1)
